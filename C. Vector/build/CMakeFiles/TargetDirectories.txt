@@ -1,0 +1,3 @@
+/Users/ivan/Desktop/projects/BDZ/C. Vector/build/CMakeFiles/final_bro.dir
+/Users/ivan/Desktop/projects/BDZ/C. Vector/build/CMakeFiles/edit_cache.dir
+/Users/ivan/Desktop/projects/BDZ/C. Vector/build/CMakeFiles/rebuild_cache.dir

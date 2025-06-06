@@ -1,0 +1,3 @@
+/Users/ivan/Desktop/projects/BDZ/L. BigInteger/build/CMakeFiles/main_geor.dir
+/Users/ivan/Desktop/projects/BDZ/L. BigInteger/build/CMakeFiles/edit_cache.dir
+/Users/ivan/Desktop/projects/BDZ/L. BigInteger/build/CMakeFiles/rebuild_cache.dir

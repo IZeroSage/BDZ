@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/C. Vector/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/final_bro.dir/vector_public_test.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/C. Vector/vector_public_test.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/C. Vector/vector_public_test.cpp",
+  "output": "CMakeFiles/final_bro.dir/vector_public_test.cpp.o"
+}
+]

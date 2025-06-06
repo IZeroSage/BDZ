@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/B. Array/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_run.dir/array_test.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/B. Array/array_test.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/B. Array/array_test.cpp",
+  "output": "CMakeFiles/main_run.dir/array_test.cpp.o"
+}
+]

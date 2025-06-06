@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/L. BigInteger/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_geor.dir/big_integer_test.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/L. BigInteger/big_integer_test.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/L. BigInteger/big_integer_test.cpp",
+  "output": "CMakeFiles/main_geor.dir/big_integer_test.cpp.o"
+},
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/L. BigInteger/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_geor.dir/big_integer_good.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/L. BigInteger/big_integer_good.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/L. BigInteger/big_integer_good.cpp",
+  "output": "CMakeFiles/main_geor.dir/big_integer_good.cpp.o"
+}
+]

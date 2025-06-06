@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/A. Matrix/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_run.dir/matrix_test.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/A. Matrix/matrix_test.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/A. Matrix/matrix_test.cpp",
+  "output": "CMakeFiles/main_run.dir/matrix_test.cpp.o"
+},
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/A. Matrix/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_run.dir/rational.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/A. Matrix/rational.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/A. Matrix/rational.cpp",
+  "output": "CMakeFiles/main_run.dir/rational.cpp.o"
+}
+]

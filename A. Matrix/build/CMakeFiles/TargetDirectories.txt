@@ -1,0 +1,3 @@
+/Users/ivan/Desktop/projects/BDZ/A. Matrix/build/CMakeFiles/main_run.dir
+/Users/ivan/Desktop/projects/BDZ/A. Matrix/build/CMakeFiles/edit_cache.dir
+/Users/ivan/Desktop/projects/BDZ/A. Matrix/build/CMakeFiles/rebuild_cache.dir

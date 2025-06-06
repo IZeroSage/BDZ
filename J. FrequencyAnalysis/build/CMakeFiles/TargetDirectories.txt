@@ -1,0 +1,3 @@
+/Users/ivan/Desktop/projects/BDZ/J. FrequencyAnalysis/build/CMakeFiles/main_CPP.dir
+/Users/ivan/Desktop/projects/BDZ/J. FrequencyAnalysis/build/CMakeFiles/edit_cache.dir
+/Users/ivan/Desktop/projects/BDZ/J. FrequencyAnalysis/build/CMakeFiles/rebuild_cache.dir

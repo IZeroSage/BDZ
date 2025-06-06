@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ivan/Desktop/projects/BDZ/H. BigPolitick/build",
+  "command": "clang++   -g -std=gnu++20 -arch arm64 -fsanitize=address -o CMakeFiles/main_CPP.dir/main.cpp.o -c \"/Users/ivan/Desktop/projects/BDZ/H. BigPolitick/main.cpp\"",
+  "file": "/Users/ivan/Desktop/projects/BDZ/H. BigPolitick/main.cpp",
+  "output": "CMakeFiles/main_CPP.dir/main.cpp.o"
+}
+]

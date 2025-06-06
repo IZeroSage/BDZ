@@ -1,0 +1,3 @@
+/Users/ivan/Desktop/projects/BDZ/F. Itertools.Range/build/CMakeFiles/main_run.dir
+/Users/ivan/Desktop/projects/BDZ/F. Itertools.Range/build/CMakeFiles/edit_cache.dir
+/Users/ivan/Desktop/projects/BDZ/F. Itertools.Range/build/CMakeFiles/rebuild_cache.dir
